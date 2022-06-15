@@ -50,7 +50,7 @@
 </div>
 
 ###
-<img href="https://github.com/matheuslimat/matheuslimat/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/matheuslimat/matheuslimat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
