@@ -4,7 +4,7 @@
 <p align="left">I hope you are well, and may the force be with you.</p>
 
 ###
-<p align="left">🎓 I am studying for a Bachelor in Information System<br>🔓 Backend developer since 2017<br>🔍 In my spare time I like to study front-end, image recognition and information security<br>🚀 Constantly looking for improvements<br>🕹️ I love playing video games</p>
+<p align="left">🎓 I have a Bachelor's degree in Information Systems<br>🎓 I am studying for a postgraduate degree in Software Architecture<br>🔓 Backend developer since 2017<br>🔍 In my spare time I like to study front-end, image recognition and information security<br>🚀 Constantly looking for improvements<br>🕹️ I love playing video games</p>
 
 ###
 <h2 align="left">I Work With</h2>
@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
 </div>
 
